@@ -1,6 +1,6 @@
-## 👋 Welcome to Shreyas Rao's GitHub Page
+## 👋 Welcome to Shreyas' GitHub Page
 
-- 🎓 My name is Shreyas Rao, a third year student at University of Toronto!
+- 🎓 My name is Shreyas, a student at University of Toronto!
 - 👀 I’m interested in coding, consulting, building new things!
 - 🌱 I’m looking to collaborate on projects!
 - 🏅 I love to play sports such as volleyball, badminton, basketball and more.
